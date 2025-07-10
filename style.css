@@ -13,14 +13,14 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(90deg,#e2e2e2,#c9d6ff);
+    background: linear-gradient(80deg,#7494ec,#ffffff);
 }
 
 .container 
 {
     position: relative;
-    width: 850px;
-    height: 550px;
+    width: 900px;
+    height: 600px;
     background: #fff;
     border-radius: 30px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .2);
@@ -82,7 +82,7 @@ form
     border-radius:8px;
     border:none;
     outline:none;
-    font-size: 16px;
+    font-size: 20px;
     color:#333;
     font-weight:500;
 }
@@ -99,7 +99,7 @@ form
     right:20px;
     top:50%;
     transform: translateY(-50%);
-    font-size:20px;
+    font-size:30px;
     color:#888;
 }
 .forgot-link
@@ -108,7 +108,7 @@ form
 }
 .forgot-link a 
 {
-    font-size: 14.5px;
+    font-size: 16px;
     color:#333;
     text-decoration:none;
 }
@@ -121,14 +121,14 @@ form
     box-shadow: 0 0 10px rgba(0, 0, 0, .1);
     border: none;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 20px;
     color: #fff;
     font-weight: 600;
 }
     
     .container p
     {
-        font-size: 14.5px;
+        font-size: 16px;
         margin: 15px 0;
     }
   .social-icons{
@@ -141,7 +141,7 @@ form
         padding: 10px;
         border: 2px solid #ccc;
         border-radius: 8px;
-        font-size: 24px;
+        font-size: 28px;
         color: #333;
         text-decoration: none;
         margin: 0 8px;
@@ -211,7 +211,7 @@ form
 }
 .toggle-panel p 
 {
- margin-bottom: 20px;
+ margin-bottom: 30px;
 }
 .toggle-panel .btn
 {
